@@ -1,5 +1,5 @@
 # Rainbow
-This is a poem about rainbows and dogs.
+This is a poem about rainbows, cats, and dogs.
 Red
 Orange
 Yellow
@@ -7,4 +7,4 @@ Green
 Blue
 Indigo
 Violet
-and a cute dog.
+and a cute cat and dog.
